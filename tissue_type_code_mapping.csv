@@ -1,0 +1,138 @@
+﻿"[, adrenal gl, kidneys, spleen]",", adrenal gl, kidneys, spleen",CH03066_CH00088_CH00076
+"[, adrenal gl]",", adrenal gl",CH03066
+"[, bone marrow, cns, cns, posterior, transnasal]",", bone marrow, cns, cns, posterior, transnasal",CH00082_CH02738_CH00652
+"[, central nervous system, cord]",", central nervous system, cord",CH02738_CH01383
+"[, cns, kidney, lungs]",", cns, kidney, lungs",CH02738_CH00088_CH00089
+"[, cns, kidneys, liver]",", cns, kidneys, liver",CH02738_CH00088_CH00086
+"[, cord, membrane, placenta]",", cord, membrane, placenta",CH01383_CH03065_CH01382
+"[, cord, membranes, placenta]",", cord, membranes, placenta",CH01383_CH03065_CH01382
+"[, i, j), kidney (h]",", i, j), kidney (h)",CH00088
+"[, left lung]",", left lung",CH00845
+"[2, kidney 1]","2, kidney 1",CH00088_CH02591_CH02590
+"[adrenal, kidney]","adrenal, kidney",CH03066_CH00088
+"[adrenal, left kidney, right kidney]","adrenal, left kidney, right kidney",CH03066_CH02591_CH02590
+"[anterior, cns]","anterior, cns",CH02738 (not provided)
+[bilateral kidneys],bilateral kidneys,CH02590_CH02591
+[bilateral lung],bilateral lung,CH00845_CH00649
+"[bilateral, kidney]","bilateral, kidney",CH02590_CH02591
+"[bilateral, lung]","bilateral, lung",CH00845_CH00649
+"[bilateral, lungs]","bilateral, lungs",CH00845_CH00649
+[bone marrow (in block e)],bone marrow (in block e),CH00082
+"[bone marrow, cns, liver, lungs]","bone marrow, cns, liver, lungs",CH00082_CH02738_CH00086_CH00089
+"[bone marrow, cns, transnasal]","bone marrow, cns, transnasal",CH00082_CH02738_CH00652
+[bone marrow],bone marrow,CH00082
+"[cns posterior, transnasal]","cns posterior, transnasal",CH00651_CH00652
+[cns transnasal],cns transnasal,CH00652
+"[cns, cns, posterior, transnasal]","cns, cns, posterior, transnasal",CH02738_CH00651_CH00652
+"[cns, heart]","cns, heart",CH02738_CH00091
+"[cns, inadequate., posterior, transnasal]","cns, inadequate., posterior, transnasal",CH00651_CH00652
+"[cns, kidney]","cns, kidney",CH02738_CH00088
+"[cns, kidneys, liver, lungs]","cns, kidneys, liver, lungs",CH02738_CH00088_CH00086 (ambiguous)
+"[cns, kidneys, liver]","cns, kidneys, liver",CH02738_CH00088_CH00086
+"[cns, left kidney, right]","cns, left kidney, right",CH02738_CH02591_CH02590
+"[cns, left lung, posterior, transnasal]","cns, left lung, posterior, transnasal",CH02738_CH00845_CH00651_CH00652
+"[cns, liver, lungs]","cns, liver, lungs",CH02738_CH00086 (ambiguous)
+"[cns, liver]","cns, liver",CH02738_CH00086
+"[cns, placenta, thymus]","cns, placenta, thymus",CH02738_CH01382 (not provided)
+"[cns, posterio, transnasal]","cns, posterio, transnasal",CH00651_CH00652
+"[cns, posterior or transnasal]","cns, posterior or transnasal",CH00651_CH00652
+"[cns, posterior, trans nasal]","cns, posterior, trans nasal",CH00651_CH00652
+"[cns, posterior, trans-nasal]","cns, posterior, trans-nasal",CH00651_CH00652
+"[cns, posterior, transnasal]","cns, posterior, transnasal",CH00651_CH00652
+"[cns, posterior]","cns, posterior",CH00651
+"[cns, trans]","cns, trans",CH00652
+"[cns, transnasal]","cns, transnasal",CH00652
+[cns],cns,CH02738
+"[cord, membranes, placenta]","cord, membranes, placenta",CH01383_CH03065_CH01382
+"[cord, membranes]","cord, membranes",CH01383_CH03065
+"[cord, placenta]","cord, placenta",CH01383_CH01382
+[cord/ membranes],cord/ membranes,CH01383_CH03065
+[cord/fetal membranes],cord/fetal membranes,CH01383_CH03065
+[cord/membrane],cord/membrane,CH01383_CH03065
+[cord/membranes],cord/membranes,CH01383_CH03065
+[cord],cord,CH01383
+[esophagus],esophagus,CH00893
+"[fetal membranes, placenta]","fetal membranes, placenta",CH03065_CH01382
+[fetal membranes],fetal membranes,CH03065
+[floating tissue (brain)],floating tissue (brain),CH00090
+[floating tissue (h)],floating tissue (h),CH00893
+[floating tissue],floating tissue,CH00893
+[fragments of heart],fragments of heart,CH00091
+"[gastrointestinal tract (1, j)]","gastrointestinal tract (1, j)",CH00893
+[heart (block c)],heart (block c),CH00091
+[heart (in left lung block)],heart (in left lung block),CH00091
+[heart (right lung mits sampling) mild myocarditis.],heart (right lung mits sampling) mild myocarditis,CH00091
+[heart],heart,CH00091
+[intestine (in kidney block)],intestine (in kidney block),CH00893
+[intestine (in liver block)],intestine (in liver block),CH00893
+[intestines],intestines,CH00893
+[kidney (in block a)],kidney (in block a),CH00088
+[kidney (in liver block)],kidney (in liver block),CH00088
+[kidney 1],kidney 1,CH00088
+[kidney 2],kidney 2,CH00088
+"[kidney, left, right]","kidney, left, right",CH02591_CH02590
+[kidney],kidney,CH00088
+"[kidneys (right, left)]","kidneys (right, left)",CH02590_CH02591
+[kidneys],kidneys,CH00088
+[kindeys],kindeys,CH00088 (misspelled)
+"[laft kidney, right]","laft kidney, right",CH02591_CH02590 (misspelled)
+"[left  lung, right]","left lung, right",CH00845_CH00649
+[left  lung],left lung,CH00845
+"[left kidney, left lung, right]","left kidney, left lung, right",CH02591_CH00845_CH00649
+"[left kidney, right kidney]","left kidney, right kidney",CH02591_CH02590
+"[left kidney, right]","left kidney, right",CH02591_CH02590
+[left kidney],left kidney,CH02591
+"[left kidneys, right]","left kidneys, right",CH02591_CH02590 (ambiguous)
+"[left kindney, right]","left kindney, right",CH02591_CH02590 (misspelled)
+"[left lung (liver present), right]","left lung (liver present), right",CH00845_CH00649
+"[left lung (technically inadequate), right]","left lung (technically inadequate), right",CH00845_CH00649
+"[left lung, liver, right lung]","left lung, liver, right lung",CH00845_CH00086_CH00649
+"[left lung, righ]","left lung, righ",CH00845_CH00649 (misspelled)
+"[left lung, right l]","left lung, right l",CH00845_CH00649 (incomplete term)
+"[left lung, right lung]","left lung, right lung",CH00845_CH00649
+"[left lung, right]","left lung, right",CH00845_CH00649
+[left lung],left lung,CH00845
+"[left lungs, right lung]","left lungs, right lung",CH00845_CH00649
+"[left lungs, right]","left lungs, right",CH00845_CH00649
+[left lungs],left lungs,CH00845
+"[left, lung, right]","left, lung, right",CH00845_CH00649
+"[left, lung]","left, lung",CH00845
+"[left, lungs, right]","left, lungs, right",CH00845_CH00649
+"[left, right kidney]","left, right kidney",CH02591_CH02590
+"[left, right lung]","left, right lung",CH00845_CH00649
+"[left, right]","left, right",CH00893
+[liver (in b block)],liver (in b block),CH00086
+[liver (technically inadequate)],liver (technically inadequate),CH00086
+[liver],liver,CH00086
+[lung (block a)],lung (block a),CH00089
+[lung (in block a)],lung (in block a),CH00089
+[lung (in liver block)],lung (in liver block),CH00089
+[lung tissue on a block],lung tissue on a block,CH00089
+"[lung, right]","lung, right",CH00649
+[lung],lung,CH00089
+"[lungs, right]","lungs, right",CH00649
+[lungs],lungs,CH00089
+"[membrane, placenta]","membrane, placenta",CH03065_CH01382
+[membrane],membrane,CH03065
+"[membranes, placenta/ cord]","membranes, placenta/ cord",CH03065_CH01382_CH00079
+"[membranes, placenta]","membranes, placenta",CH03065_CH01382
+[membranes/cord],membranes/cord,CH03065_CH00079
+[membranes],membranes,CH03065
+[placenta/  cord/ membranes],placenta/ cord/ membranes,CH01382_CH00079_CH03065
+[placenta/ cord/fetal membranes],placenta/ cord/fetal membranes,CH01382_CH00079_CH03065
+[placenta/ cord/membrane],placenta/ cord/membrane,CH01382_CH00079_CH03065
+[placenta/ cord/membranes],placenta/ cord/membranes,CH01382_CH00079_CH03065
+[placenta/ cord],placenta/ cord,CH01382_CH00079
+[placenta/fetal membranes],placenta/fetal membranes,CH01382_CH03065
+[placenta/membrane],placenta/membrane,CH01382_CH03065
+[placenta/membranes/ cord],placenta/membranes/ cord,CH01382_CH03065_CH00079
+[placenta/membranes],placenta/membranes,CH01382_CH03065
+[placenta],placenta,CH01382
+[plasmodium falciprum],plasmodium falciprum,(not provided)
+[right kidney],right kidney,CH02590
+[right lung],right lung,CH00649
+"[right, right lung]","right, right lung",CH00649
+[right],right,CH00893
+[skin],skin,CH00087
+[thymus],thymus,CH00893
+[unknown (lung)],unknown (lung),CH00089
